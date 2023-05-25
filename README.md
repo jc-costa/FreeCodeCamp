@@ -26,6 +26,11 @@ To get started with this repository, you can simply clone it to your local machi
 ```shell
 git clone https://github.com/jc-costa/FreeCodeCamp.git
 ```
+or
+
+```shell
+git clone git@github.com:jc-costa/FreeCodeCamp.git
+```
 
 Make sure you have Git installed on your system before running the command.
 
